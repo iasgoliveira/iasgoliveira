@@ -76,10 +76,9 @@ Comecei na contabilidade manual e hoje atuo na fronteira entre **tributário e t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iasgoliveira&show_icons=true&theme=default&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasgoliveira&layout=compact&theme=default&hide_border=true" height="160">
+  _icons=true&hide_border=true&cache_seconds=86400" height="160">
+  username=iasgoliveira&layout=compact&hide_border=true&cache_seconds=86400" height="160">
 </p>
-
 ---
 
 <p align="center"><i>"Da contabilidade manual à automação inteligente — sempre em evolução."</i></p>
